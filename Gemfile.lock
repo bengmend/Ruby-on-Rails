@@ -163,7 +163,7 @@ GEM
     bindex (0.8.1)
     bootsnap (1.17.0)
       msgpack (~> 1.2)
-    brakeman (6.1.1)
+    brakeman (7.1.2)
       racc
     builder (3.2.4)
     bunny (2.22.0)
@@ -389,7 +389,7 @@ GEM
     queue_classic (4.0.0)
       pg (>= 1.1, < 2.0)
     raabro (1.4.0)
-    racc (1.7.3)
+    racc (1.8.1)
     rack (3.0.8)
     rack-cache (1.15.0)
       rack (>= 0.4)
