@@ -12,7 +12,7 @@ jobs:
       BUNDLE_WITHOUT: db:job:cable:storage
 
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v6
 
     - name: Remove Gemfile.lock
       run: rm -f Gemfile.lock
