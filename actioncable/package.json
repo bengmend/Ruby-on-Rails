@@ -35,7 +35,7 @@
     "mock-socket": "^2.0.0",
     "qunit": "^2.8.0",
     "rollup": "^2.35.1",
-    "rollup-plugin-terser": "^7.0.2"
+    "@rollup/plugin-terser": "^0.1.0"
   },
   "scripts": {
     "prebuild": "yarn lint && bundle exec rake assets:codegen",
